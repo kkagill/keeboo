@@ -8,4 +8,3 @@
 
 Got permission from the company to upload front-end side that I did.
 
-http://ghj.me/#/
