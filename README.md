@@ -6,7 +6,7 @@
 -	Created functions such as number of active cars on the map, longest distance travelled, longest drive of the month, total and average fuel used for the month, and the highest number of hard brakes. 
 -	Technologies involved HTML, CSS, AngularJS, Node.js, and Express. The project was managed with a Scrum Methodology and the use of Git    in Ubuntu environment.
 
-Got permission from the company to upload front-end side that I did.
+Got permission from the company to upload the front-end side I did.
 
 Information about this project:
 https://www.youtube.com/watch?v=eFphRplx0Sg
