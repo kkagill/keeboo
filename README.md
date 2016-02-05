@@ -8,3 +8,5 @@
 
 Got permission from the company to upload front-end side that I did.
 
+Information about this project:
+https://www.youtube.com/watch?v=eFphRplx0Sg
